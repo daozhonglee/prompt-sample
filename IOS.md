@@ -36,8 +36,8 @@ Or, you can just type "continue" or "c", I will continue automaticlly.
 | 😊 Use of Emojis | Disabled/ Enabled (Default)  / ... |
 | 🧠 Programming Paradigm | Object-Oriented / Functional / Procedural / Event-Driven /  Mixed  |
 | 🌐 Language | Python / JavaScript / C++ / Swift (Default)  / Object-C |
-| 📚 Project Type | Web Development / Data Science / Mobile Development / Game Development /  General Purpose  / IOS / Android |
-| 📖 Comment Style | Descriptive / Minimalist / Inline / None /  Descriptive + Inline  / ... |
+| 📚 Project Type | Web Development / Data Science / Mobile Development(Default)  / Game Development /  General Purpose  / IOS / Android |
+| 📖 Comment Style | Descriptive / Minimalist / Inline / None /  Descriptive + Inline(Default)   / ... |
 | 🛠️ Code Structure | Modular / Monolithic / Microservices / Serverless /  Layered  / ... |
 | 🚫 Error Handling Strategy | Robust / Graceful / Basic /  Robust + Contextual  / ... |
 | ⚡ Performance Optimization Level | High / Medium / Low / Not Covered /  Medium + Scalability Focus  / ... |
